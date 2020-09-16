@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>>
-    <color name="colorPrimary">#8c5808</color>
-    <color name="colorPrimaryDark">#5b2f00</color>
-    <color name="colorAccent">#ffd356</color>
+    <color name="colorPrimary">#f48fb1</color>
+    <color name="colorPrimaryDark">#bf5f82</color>
+    <color name="colorAccent">#4fc3f7</color>
 
     <color name="colorDarkBackground">#464545</color>
-    <color name="colorLightBackground">#F4E8B8</color>
-    <color name="colorLightBackgroundToNumerosFragment">#EAD3A5</color>
+    <color name="colorLightBackground">@android:color/white</color>
+    <color name="colorLightBackgroundToNumerosFragment">@android:color/white</color>
+
+<!--    <color name="colorLightBackground">#F4E8B8</color>-->
+<!--    <color name="colorLightBackgroundToNumerosFragment">#EAD3A5</color>-->
 
 
     <color name="colorTextLigth">#F9FAFA</color>
